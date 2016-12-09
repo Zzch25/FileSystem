@@ -1,0 +1,10 @@
+6 .ldc
+88 .ssh/known_hosts
+973 .bash_history
+2743 SFTP/leshellupdatus.zip
+22553 SFTP/srcULT.zip
+905 Work/cs392/src/test/listtest.c
+545 Work/cs392/src/test/testmy2.c~
+0 cs392/
+0 src/
+0 test/
